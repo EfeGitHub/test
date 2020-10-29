@@ -10,3 +10,4 @@ def draw():
     screen.draw.line((150, 20), (350, 20), "purple")
     screen.draw.line ((350,20), (350, 450), "purple")
     screen.draw.line((150,450), (350,450), "purple")
+    screen.draw.circle((300,300),75, "white")
